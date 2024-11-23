@@ -1,6 +1,6 @@
 import java.io.PrintStream;
 import java.util.Scanner;
-public class main {
+public class lab2 {
   public static Scanner in = new Scanner(System.in);  // Объявляем объект класса Scanner для ввода данных
   public static PrintStream out = System.out;  // Объявляем объект класса PrintStream для вывода данных
   public static void main(String[] args) {
